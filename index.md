@@ -31,7 +31,7 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 <br>
 # Awards
 - **[Sep. 2021]** <a href="https://brainscan.uwo.ca/research/scholars.html#Saba" target="_blank">*BrainsCAN Scholarship*</a>
-- **[Sep. 2016]** National Elites Foundation's Fellowshipship
+- **[Sep. 2016]** National Elites Foundation's Fellowship
 - **[Sep. 2016]** Ranked 16th in the Iranian National University Entrance Exam
 
 
