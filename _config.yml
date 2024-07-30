@@ -11,7 +11,7 @@ title: Saba Charmi Motlagh
 # affiliation_link: ""
 # subaffiliation_link: ""
 email: saba.charmi@gmail.com
-address: "London, Ontario, Canada"
+address: "London, ON, Canada"
 # address_link: ""
 
 # Search Engine Optimization (SEO)
@@ -41,7 +41,6 @@ enable_footnote: false
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
@@ -52,8 +51,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
   - minimal-light.gemspec
