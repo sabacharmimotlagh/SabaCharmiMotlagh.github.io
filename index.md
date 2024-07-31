@@ -11,7 +11,7 @@ layout: homepage
 
 # Professional Experiences
 {: #professional-experiences }
-### Research Assistant  <p style="text-align: right;">This text is right-aligned using HTML.</p>
+### Research Assistant 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Engaging in collaborative research efforts within the framework of a large-scale project (OMMABA), taking place at McGill and Western Universities
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Utilizing various data collection methodologies, including the acquisition of behavioral, EEG, and fMRI data, from cohorts of healthy volunteers
